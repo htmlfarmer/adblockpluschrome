@@ -1,5 +1,13 @@
-Adblock Plus for Chrome, Opera, Microsoft Edge and Firefox
+Adblock Secure (fork)
 ==========================================================
+
+AdBlock Secure (fork) goal is to develop distributed (non centralized) security research tools for the web browser.  The new port seeks to bridge localized in browser research NLP with a centralized AdBlocker database.  A centralized security system fails to account for localized human expectations and centralized security can also fail at a global level.
+
+Using a variety of simple text analytics it should be possible to greatly increase global security.
+
+Frequency of static and dynamic program analysis to identify malicious, dangerous, and privacy infringing functionality in a webpage. This simple add in browser security features is beyond the default AdBlocker perspective.  The Security Plugin’s goal is to help the user and primarily focus on value.  With the success of the like “only” button on facebook it is proposed to build up the reputation of a website and focus the analytics primarily on the positive.
+
+We combine Natural Language Processing (NLP) text analysis with computer security.  The AdBlocker plugin has already provided useful higher dimensional popular techniques for improving web pages.  Simple Natural Language Processing (NLP) without the use of dangerous algorithms to the user. 
 
 This repository contains the platform-specific Adblock Plus source code for
 Chrome, Opera, Microsoft Edge and Firefox. It can be used to build
