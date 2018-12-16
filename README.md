@@ -9,16 +9,9 @@ Frequency of static and dynamic program analysis to identify malicious, dangerou
 
 We combine Natural Language Processing (NLP) text analysis with computer security.  The AdBlocker plugin has already provided useful higher dimensional popular techniques for improving web pages.  Simple Natural Language Processing (NLP) without the use of dangerous algorithms to the user. 
 
-#health #police #pornography #javascript 
-The problems in Artificial Intelligence can be solved easier if we have a "AI BLOCKER" or "PORN BLOCKER" in browser.
+The problems in Artificial Intelligence can be solved easier if we have a "AI BLOCKER" or "PORN BLOCKER" in browser.  (the nice part of this project is a lot of the code is already written! and we need to create an "ADD ON" to adblocker that detects PORN and new problems especilaly in AI (artificial intellegence)
 
-Here is a new software project that works for "blocking ads" however, we need money to help develop the code ... however, the code is mostly "in browser" and basic HTML/Javascript.  
-
-(the nice part of this project is a lot of the code is already written!  its just a fork of the adblocker project that detects PORN and new problems in AI)
-
-this problem most likely will be solved by private industry... that is the problems in "online CHAT BOTS".  clearly the police are not helping... (or the "good" police don't know how to help?). the GOOD news is that people like you and me can have our own browser settings and solve this problem or help.
-
-Anyway... this is just a sample page for a project if anyone wants to try and do a new startup or checkout the internal code and build their own local "adblocker that is a pornblocker and eventually AI blocker". 
+This is a major "policing problem" and most likely will not be solved by the police or even by private industry... that is the problems in "online CHAT BOTS".  clearly the police are not helping... (or the "good" police don't know how to help?). the GOOD news is that people like you and me can have our own browser settings and solve this problem or help.
 
 (feel free to "like" this link or comment if your interested in helping with this new project...)
 
