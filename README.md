@@ -1,7 +1,7 @@
 PornBlocker Secure (fork)
 ==========================================================
 
-PornBlocker Secure (fork) goal is to develop distributed (non centralized) security research tools for the web browser.  The new port seeks to bridge localized in browser research NLP with a centralized AdBlocker database.  A centralized security system fails to account for localized human expectations and centralized security can also fail at a global level.
+PornBlocker Secure (fork) goal is to develop a new "startup" of distributed (non centralized) security research tools for the web browser that focuses on ARTIFICIAL INTELLIGENCE and "fractal porn" and "fractal ad's" as well as EMERGENCY REAL TIME SURGERY in javascript of the webbrowser.  The new port seeks to bridge localized in browser research NLP with a centralized AdBlocker database.  A centralized security system fails to account for localized human expectations and centralized security can also fail at a global level.
 
 Using a variety of simple text analytics it should be possible to greatly increase global security.
 
