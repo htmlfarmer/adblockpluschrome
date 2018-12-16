@@ -9,7 +9,7 @@ Frequency of static and dynamic program analysis to identify malicious, dangerou
 
 We combine Natural Language Processing (NLP) text analysis with computer security.  The AdBlocker plugin has already provided useful higher dimensional popular techniques for improving web pages.  Simple Natural Language Processing (NLP) without the use of dangerous algorithms to the user. 
 
-#health hashtag#police hashtag#pornography hashtag#javascript 
+#health #police #pornography #javascript 
 The problems in Artificial Intelligence can be solved easier if we have a "AI BLOCKER" or "PORN BLOCKER" in browser.
 
 Here is a new software project that works for "blocking ads" however, we need money to help develop the code ... however, the code is mostly "in browser" and basic HTML/Javascript.  
